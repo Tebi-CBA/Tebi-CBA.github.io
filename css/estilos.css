@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Roboto:wght@300;900&display=swap');
+
+body{
+
+    background-color: blanchedalmond;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+header{
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(155, 88, 0);
+    background-color: rgb(243, 205, 159);
+    font-size: 20px;
+    padding: 2%;
+    text-align: justify;
+
+}
+
+footer{
+
+    color: brown;
+    font-family: 'Borel';
+
+}
+
+h1{
+
+    text-align: center;
+}
+
+h2{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(241, 141, 10, 0.33);
+    padding: 2%;
+    text-align: center;
+}
+
+h3{
+    margin-left: 10px;
+}
+
+p{
+    margin-left: 20px;
+    margin-right: 10%;
+}
+
+img{
+    margin-left: 3%;
+}
